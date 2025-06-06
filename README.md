@@ -3,7 +3,7 @@
 **Disciplina:** Teoria e Aplicação de Grafos - TAG, 2025/1
 **Professor:** Díbio
 **Autores:**
-* Luiz Henrique Silva de Andrade - 211010430
+* Luiz Henrique Silva de Andrade  - 211010430
 * Marcelo Marques Rodrigues - 221018960
 * Ryan Reis Fontenele - 211036132
 
